@@ -10,6 +10,7 @@ Olá, Sou Giovanni Bolsoni!!
 
 ![obolsoni's Stats](https://github-readme-stats.vercel.app/api?username=obolsoni&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <div style="display: inline_block"><br>
   <img align="center" alt=-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
