@@ -2,10 +2,12 @@ Olá, Sou Giovanni Bolsoni!!
 
 🎯 Desenvolvedor apaixonado por resolver problemas com código limpo, eficiente e bem estruturado.
 
+---------------------------------------------
+
 ## 🚀 Tecnologias que curto usar:
-- 🧠 GJava, Python, HTML5, CSS3
-- 🛢️ MySQL
-- 🐳 Git, GitHub Actions
+- 🧠 Java, Python, HTML5, CSS3
+- 🛢️ SQL
+- 🐳 Git, GitHub
 <br>
 
 ![obolsoni's Stats](https://github-readme-stats.vercel.app/api?username=obolsoni&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
