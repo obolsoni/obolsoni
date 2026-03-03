@@ -1,4 +1,4 @@
-Olá, Sou Giovanni Bolsoni!!
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/e5aa9778-7a1a-473b-9338-9f321fd4e29d" />Olá, Sou Giovanni Bolsoni!!
 
 🎯 Desenvolvedor apaixonado por resolver problemas com código limpo, eficiente e bem estruturado.
 
@@ -19,7 +19,8 @@ Olá, Sou Giovanni Bolsoni!!
 
 <img align="center" alt="python" height="30" width="40" src="https://github.com/user-attachments/assets/38f63d02-132a-4533-a8c8-1931fadbf26b"/>
 
-<img width="40" height="40" alt="MySQL" src="https://github.com/user-attachments/assets/a9710c5c-244a-45d5-ae59-bcb67648cd39" />
+<img align="center" alt="MySQL" height="30" width="50" src="https://github.com/user-attachments/assets/c24ad82a-6e4d-4ffd-a263-b790b126d5f9" />
+
 
 </div>
 <br>
