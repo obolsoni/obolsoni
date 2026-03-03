@@ -5,7 +5,7 @@ Olá, Sou Giovanni Bolsoni!!
 ---------------------------------------------
 
 ## 🚀 Tecnologias que curto usar:
-- 🧠 Java, Python, HTML5, CSS3, Java Script
+- 🧠 Python, HTML5, CSS3, Java Script
 - 🛢️ MySQL
 - 🐳 Git, GitHub
 <br>
@@ -16,6 +16,8 @@ Olá, Sou Giovanni Bolsoni!!
 <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Java Script" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp)">
 </div>
 <br>
 
