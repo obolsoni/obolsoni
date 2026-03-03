@@ -18,6 +18,9 @@ Olá, Sou Giovanni Bolsoni!!
 <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <img align="center" alt="python" height="30" width="40" src="https://github.com/user-attachments/assets/38f63d02-132a-4533-a8c8-1931fadbf26b"/>
+
+<img align="center" alt="MySQL" height="30" width="40" src="https://github.com/user-attachments/assets/38f63d02-132a-4533-a8c8-1931fadbf26b"/>
+
 </div>
 <br>
 
