@@ -19,7 +19,7 @@ Olá, Sou Giovanni Bolsoni!!
 
 <img align="center" alt="python" height="30" width="40" src="https://github.com/user-attachments/assets/38f63d02-132a-4533-a8c8-1931fadbf26b"/>
 
-<img align="center" alt="MySQL" height="30" width="40" src="(https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg)"/>
+<img align="center" alt="MySQL" height="30" width="40" src="https://github.com/user-attachments/assets/f9695868-c146-42e8-b81e-1b31d7db65f3"/>
 
 </div>
 <br>
