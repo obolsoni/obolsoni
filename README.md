@@ -1,4 +1,4 @@
-<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/e5aa9778-7a1a-473b-9338-9f321fd4e29d" />Olá, Sou Giovanni Bolsoni!!
+Olá, Sou Giovanni Bolsoni!!
 
 🎯 Desenvolvedor apaixonado por resolver problemas com código limpo, eficiente e bem estruturado.
 
