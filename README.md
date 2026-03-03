@@ -5,8 +5,8 @@ Olá, Sou Giovanni Bolsoni!!
 ---------------------------------------------
 
 ## 🚀 Tecnologias que curto usar:
-- 🧠 Java, Python, HTML5, CSS3
-- 🛢️ SQL
+- 🧠 Java, Python, HTML5, CSS3, Java Script
+- 🛢️ MySQL
 - 🐳 Git, GitHub
 <br>
 
